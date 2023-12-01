@@ -4,14 +4,15 @@
 
 Wiston Castle includes a Hall Effect Sensor that can detect magnets, a small battery and a 2 pin LED output. Smaller than 25mm x 25mm, Wiston Castle can fit under a small 32mm circular base, or within a single 1 inch square.
 
-INSERT PICTURE OF BOARD, BOTH SIDES and with an LED attached.
+<img src="/pictures/IMG_1923.jpg" width="250"><img src="/pictures/IMG_1924.jpg" width="250"><img src="/pictures/IMG_1925.jpg" width="250">
 
 Please take a minute to read through the uses - there's usability hints throughout that will inspire creative usage!
 
 ## Uses
 Wiston Castle can be used over the surface of the table, within the base of a piece of scatter terrain piece or the case of a player character etc.
 ### Example 1 - Fire Pits, Tall Candles etc
-INSERT PICTURE
+<img src="/pictures/pentagram.jpg" width="350"><img src="/pictures/wistoninbase.jpg" width="500">
+
 Here the Wiston Castle has been designed to fit in a base, battery pointing down, so that it can be changed easily. Magnets have been placed beneath the foam floor of the terrain, so that it lights up ONLY when the scatter terrain is above the exact spot. This makes an excellent "X Marks the Spot" type experience.
 In this image, the LED has been wire wrapped to the LED, touch of solder on those joints to hold them in place, and then the other ends directly soldered to the + and - LED pins on the Wiston Castle PCB.
 
