@@ -37,7 +37,12 @@ Wiston Castle is a simple design. The schematic is painfully simple. The SL1603S
 
 The CR1616 battery powers the SL1603SL Hall effect sensor. The output of the Hall Effect sensor is connected to LED- Pin on the output.
 
+## Schematic
 
+Simple Stuff Really! PG1.0 used a reed switch, but I found the reed switches not to react when a magnet was immediately below it. Reed switches need to be at a common angle to the magnetic fields, forcing most magnets to be on their side, or off to one side.
+The SL1603SL is designed to be directly above a N or S face of a Magnet. Perfect.
+
+<img src="/pictures/WistonPG2p0Schem.png" width="500">
 
 Key components:
   
