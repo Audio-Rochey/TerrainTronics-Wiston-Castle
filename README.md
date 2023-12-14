@@ -14,7 +14,7 @@ Wiston Castle can be used over the surface of the table, within the base of a pi
 <img src="/pictures/pentagram.jpg" width="350"><img src="/pictures/wistoninbase.jpg" width="500">
 
 Here the Wiston Castle has been designed to fit in a base, battery pointing down, so that it can be changed easily. Magnets have been placed beneath the foam floor of the terrain, so that it lights up ONLY when the scatter terrain is above the exact spot. This makes an excellent "X Marks the Spot" type experience.
-In this image, the LED has been wire wrapped to the LED, touch of solder on those joints to hold them in place, and then the other ends directly soldered to the + and - LED pins on the Wiston Castle PCB.
+In this image, the LED has been wire wrapped to the LED, touch of solder on those joints to hold them in place, and then the other ends directly soldered to the + and - LED pins on the Wiston Castle PCB. + connects to the longer pin on a traditional LED and the - to the shorter pin.
 
 ### Example 2 - X Marks the spot for player models.
 INSERT PICTURE
@@ -36,8 +36,6 @@ If you have multiple Wistron Castles, you may not want to use a battery in each 
 Wiston Castle is a simple design. The schematic is painfully simple. The SL1603SL Hall Effect sensor does most of the heavy lifting.
 
 The CR1616 battery powers the SL1603SL Hall effect sensor. The output of the Hall Effect sensor is connected to LED- Pin on the output.
-
-## Schematic
 
 Simple Stuff Really! PG1.0 used a reed switch, but I found the reed switches not to react when a magnet was immediately below it. Reed switches need to be at a common angle to the magnetic fields, forcing most magnets to be on their side, or off to one side.
 The SL1603SL is designed to be directly above a N or S face of a Magnet. Perfect.
